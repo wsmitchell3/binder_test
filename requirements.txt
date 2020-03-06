@@ -1,7 +1,6 @@
 # packages in environment at /home/curtus/anaconda3/envs/gis2:
 #
 # Name                    Version                   Build  Channel
-_libgcc_mutex             0.1                        main  
 attrs                     19.3.0                     py_0  
 backcall                  0.1.0                    py37_0  
 blas                      1.0                         mkl  
